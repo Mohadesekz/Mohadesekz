@@ -32,10 +32,6 @@ and ...
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?link=https://www.linkedin.com/in/mohaddese-kermanizadeh&logo=linkedin&logoColor=white" alt="Email Badge">
 </a>
 
-
-![GMAIL Badge](https://img.shields.io/badge/Gmail-D14836?link=mailto:mh.kermanizade@gmail.com&logo=gmail&logoColor=white)
-![LINKEDIN Badge](https://img.shields.io/badge/LinkedIn-0077B5?link=https://www.linkedin.com/in/mohaddese-kermanizadeh&logo=linkedin&logoColor=white)
-
 <!---
 Mohadesekz/Mohadesekz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
