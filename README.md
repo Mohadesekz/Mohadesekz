@@ -5,10 +5,11 @@ I'm 24 and interested in web development.
 <h2>I Work With:</h2>
 
 ![JAVASCRIPT Badge](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black)
+![TYPESCRIPT Badge](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![REACT Badge](https://img.shields.io/badge/REACT-000?logo=react&logoColor=61DAFB)
+![REACT Native Badge](https://img.shields.io/badge/REACT%20NATIVE-000?logo=react&logoColor=61DAFB)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![REACT Badge](https://img.shields.io/badge/REACT-000?logo=react&logoColor=61DAFB)
-![TYPESCRIPT Badge](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 and ...
 
