@@ -23,6 +23,16 @@ and ...
 
 <h3>Get In Touch:</h3>
 
+
+<a href="mailto:mh.kermanizade@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?link=mailto:mh.kermanizade@gmail.com&logo=gmail&logoColor=white" alt="GMAIL Badge">
+</a>
+
+<a href="https://www.linkedin.com/in/mohaddese-kermanizadeh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?link=https://www.linkedin.com/in/mohaddese-kermanizadeh&logo=linkedin&logoColor=white" alt="Email Badge">
+</a>
+
+
 ![GMAIL Badge](https://img.shields.io/badge/Gmail-D14836?link=mailto:mh.kermanizade@gmail.com&logo=gmail&logoColor=white)
 ![LINKEDIN Badge](https://img.shields.io/badge/LinkedIn-0077B5?link=https://www.linkedin.com/in/mohaddese-kermanizadeh&logo=linkedin&logoColor=white)
 
